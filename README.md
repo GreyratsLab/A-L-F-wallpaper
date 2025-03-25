@@ -8,6 +8,8 @@ Developer: greyratslab
 
 Contact: greyratslab@gmail.com
 
+Main source of privacy policy read here - https://unity.com/legal/privacy-policy
+
 At greyratslab, we value your privacy and are committed to transparency about the data we collect when you use A.L.F - AI Life Form Wallpaper. This Privacy Policy explains what information we collect, how it’s used, and your rights regarding that data. By using A.L.F - AI Life Form Wallpaper, you agree to the practices described below.
 
 1. Data We Collect
